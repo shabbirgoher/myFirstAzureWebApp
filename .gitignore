@@ -5,3 +5,5 @@
 *.min.js
 *.min.css
 *.user
+.DS_Store
+*.userprefs
